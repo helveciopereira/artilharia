@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="Ícone do Artilharia" />
+</p>
+
 # Artilharia
 
 Jogo 2D de artilharia por turnos para **Android**, em tela em pé. Castelos sobre esteiras,
